@@ -56,3 +56,21 @@ The main objective of this project is to provide secure color image encryption u
 - Military communication
 - Cloud image security
 - Multimedia data protection
+
+  ## Results
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Original Image
+
+![Original Image](original_image.png)
+
+### Encrypted Image
+
+![Encrypted Image](encrypt.png)
+
+### Decrypted Image
+
+![Decrypted Image](decrypt.png)
